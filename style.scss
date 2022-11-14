@@ -5,11 +5,48 @@
 
 
 
+.container {
+    margin-top:5% ;
 
+}
 
+hr {
+    width:97% ;
+}
 
+.card {
+width: 20rem;
+  &__num3 {
+    width: 19.5rem;
+  }
+}
+
+.num4 {
+    width:19rem;
+    
+    &__img {
+        height:20.8rem ;
+    }
+}
 .img2 {
 
     width:19.8rem;
-    height: 20rem;
+    height: 19.3rem;
 }
+
+footer {
+    width:100;
+    margin-top: 5%;
+
+}  
+  .span {
+   padding: 1%;
+  }
+
+  .carrito {
+    width: 35% ;
+  }
+
+  form{
+    width:9% ;
+  }
